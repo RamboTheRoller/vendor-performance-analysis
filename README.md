@@ -8,19 +8,14 @@ The steps include automated data ingestion, logging, EDA, feature selection, SQL
 
 📝 Key Features
 
-🔄 Automated loading of CSV data into a database using Python
+1. Automated loading of CSV data into a database using Python
 
-📝 Logging system to track data ingestion activities
-
-🔍 Exploratory Data Analysis to identify important columns and trends
-
-🧩 Merging multi-table data into a single analytical dataset
-
-🧠 Running SQL queries for business insights
-
-📊 Visualizing insights using Matplotlib
-
-📈 Building interactive dashboards in Power BI
+2. Logging system to track data ingestion activities
+3. Exploratory Data Analysis to identify important columns and trends
+4. Merging multi-table data into a single analytical dataset
+5. Running SQL queries for business insights
+6. Visualizing insights using Matplotlib
+7. Building interactive dashboards in Power BI
 
 🧰 Tech Stack
 
