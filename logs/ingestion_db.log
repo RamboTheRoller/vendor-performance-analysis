@@ -1,0 +1,5 @@
+2025-11-27 13:07:25,911 - INFO - Ingesting begin_inventory.csv in db
+2025-11-27 13:07:27,829 - INFO - Ingesting end_inventory.csv in db
+2025-11-27 13:07:34,137 - INFO - Ingesting purchases.csv in db
+2025-11-27 13:08:17,530 - INFO - Ingesting purchase_prices.csv in db
+2025-11-27 13:08:36,271 - INFO - Ingesting sales.csv in db
